@@ -1,5 +1,3 @@
-Here is the complete text with all Markdown formatting removed:
-
 AIRS - Artifact Ingestion & Retrieval System
 
 A backend system that ingests PDF documents, processes them through an asynchronous pipeline, and enables semantic search with vector embeddings and explainable retrieval.
